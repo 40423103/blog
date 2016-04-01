@@ -26,19 +26,11 @@
 <v t="leo.20160401105359.1"><vh>近端</vh></v>
 <v t="leo.20160401105223.1"><vh>@edit local_publishconf.py</vh></v>
 </v>
-<v t="amd.20160329165035.1"><vh>本地端與遠端共用的設定</vh>
-<v t="amd.20160329163958.1"><vh>@edit pelicanconf.py</vh></v>
-</v>
-<v t="amd.20160329165054.1" a="E"><vh>配合遠端 disqus 設定</vh>
-<v t="amd.20160329164746.1"><vh>@edit publishconf.py</vh></v>
-</v>
-<v t="amd.20160329165118.1" a="E"><vh>配合本地端設定</vh>
-<v t="amd.20160329162950.1"><vh>@edit local_publishconf.py</vh></v>
-</v>
 <v t="amd.20160329124921.1"><vh>@edit index.html</vh></v>
 <v t="amd.20160329124849.1"><vh>進入 content 目錄</vh></v>
 <v t="amd.20160329124903.1" a="E"><vh>@path content</vh>
 <v t="amd.20160329125251.1"><vh>@clean template-20160329.md</vh></v>
+<v t="leo.20160401113313.1"><vh>@clean 40423103-20160401.md</vh></v>
 </v>
 </v>
 </vnodes>
@@ -57,7 +49,7 @@ Author: kmol
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;a href="http://cad-lab.github.io/manual"&gt;http://cad-lab.github.io/manual&lt;/a&gt;</t>
+&lt;a href="http://40423103.github.io/blog"&gt;http://40423103.github.io/blog&lt;/a&gt;</t>
 <t tx="amd.20160329162138.1"></t>
 <t tx="amd.20160329163719.1"></t>
 <t tx="amd.20160329163719.2">@language python
@@ -75,11 +67,19 @@ os.system("pelican content -o post -s publishconf.py")
 g.es("admin pelican 執行完畢")
 
 </t>
-<t tx="amd.20160329165035.1"></t>
-<t tx="amd.20160329165054.1"></t>
-<t tx="amd.20160329165118.1"></t>
 <t tx="leo.20160401105319.1"></t>
 <t tx="leo.20160401105347.1"></t>
 <t tx="leo.20160401105359.1"></t>
+<t tx="leo.20160401113313.1">@language md
+Title: 40423103-愚人節快樂~
+Category: 
+Tags: 
+Author: kmol
+@others
+嗨嗨~~
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;a href="http://40423103.github.io/blog"&gt;http://40423103.github.io/blog&lt;/a&gt;</t>
 </tnodes>
 </leo_file>
